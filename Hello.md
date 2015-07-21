@@ -1,0 +1,2 @@
+Hello
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col24+from+1pWTmSi3pIJAkEu7FhbEwxJgd6lWaRC5CqCYDhXyo+where+col5+%3D+&#39;Com%C3%BAn&#39;+and+col6+%3D+&#39;Secundario&#39;&amp;viz=MAP&amp;h=false&amp;lat=-32.94206327713807&amp;lng=-60.65205801391596&amp;t=1&amp;z=12&amp;l=col24&amp;y=3&amp;tmplt=5&amp;hml=TWO_COL_LAT_LNG"></iframe>
