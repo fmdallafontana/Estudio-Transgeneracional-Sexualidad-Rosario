@@ -1,7 +1,7 @@
 ## Bienvenidos!
 
 Este es un archivo markdown, y pueden identificarlo en el repositorio por su extensión ".md".
-Una vez que hayan copiado el repositorio en su cuenta (Fork) pueden editar este markdown y ver como está construido.
+Una vez que hayan copiado el repositorio en su cuenta (mediante Fork) pueden editar este markdown y ver como está construido.
 Recuerden que existen muchos editores de markdown, los cuales facilitan mucho su manejo. Uno de ellos es [Dillinger](http://dillinger.io/) el cual es online y no necesita de ninguna descarga.
 
 Como ya les comenté, por lo general un repositorio está compuesto por mínimo un archivo markdown.
