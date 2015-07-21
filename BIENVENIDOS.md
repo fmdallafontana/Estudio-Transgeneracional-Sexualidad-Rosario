@@ -1,4 +1,4 @@
-### Bienvenidos!
+## Bienvenidos!
 
 Este es un archivo markdown, y pueden identificarlo en el repositorio por su extensión ".md".
 Una vez que hayan copiado el repositorio en su cuenta (Fork) pueden editar este markdown y ver como está construido.
