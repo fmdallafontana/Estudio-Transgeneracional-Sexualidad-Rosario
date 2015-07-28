@@ -10,7 +10,9 @@ Suele incluirse como punto inicial un "README.md", en donde se da una breve desc
 #### Archivos en el Repositorio:
   - README.md: este archivo
   - Estudio Transgeneracional de la Sexualidad en Rosario.md: Resúmen del proyecto.
-  - Muestra Fracciones Censales.Rmd: Markdown de R para obtener una muestra de fracciones de Rosario.
+  - Muestra Fracciones Censales Markdown.Rmd: Markdown de R para obtener una muestra de fracciones de Rosario.
+  - Muestra Fracciones Censales Markdown.pdf/.html/.docx: salidas del .Rmd.
+  - Muestra Fracciones Censales.R: programación en R para la extracción de la muestra (sin observaciones)
 
 
 **Buen comienzo para todos!!**
