@@ -36,9 +36,9 @@ lista_distrito[1]
 Ahora vamos a extraer una muestra, que va a estar conformada por 12 fracciones censales (dos fracciones por distrito).
 
 La siguiente sintaxis se encarga de extraer la muestra mediante los siguientes pasos:
-1. Crea una matriz de caracteres vacia, llamada "muestra".
-2. Comienza un proceso iterativo a través de los elementos de la lista, es decir, a través de los distritos.
-3. Extrae el nombre del distrito.
+1- Crea una matriz de caracteres vacia, llamada "muestra".
+2 Comienza un proceso iterativo a través de los elementos de la lista, es decir, a través de los distritos.
+[3] Extrae el nombre del distrito.
 4. Extrae una muestra aleatoria simple sin reemplazo de dos fracciones del distrito.
 5. Concatena 2 y 3.
 6. Concatena 4 a trevés de los distintos distritos.
