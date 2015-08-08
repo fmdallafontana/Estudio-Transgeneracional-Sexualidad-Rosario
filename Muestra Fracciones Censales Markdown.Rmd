@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 ### Muestra de Fracciones Censales Markdown
 
 Vamos a considerar por un lado cada distrito de la ciudad de Rosario de acuerdo a la división territorial establecida por la Municipalidad, y por otro lado tomaremos la división de la ciudad en fracciones censales, de acuerdo a las divisiones consideradas en el Censo Nacional de Población, Hogares y Viviendas 2001 (ya que para 2010 dicha información no se encuentra disponible). Estas divisiones pueden visualizarse en el mapa de Rosario [Infomapa Rosario](http://infomapa.rosario.gov.ar/).
